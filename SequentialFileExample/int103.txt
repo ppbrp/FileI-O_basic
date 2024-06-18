@@ -1,0 +1,8 @@
+This is INT 103 Advance Programming.
+We learn about
+ 1 object-oriented programming,
+ 2 functional programming,
+ 3 file I/O,
+ 4 read and write data from a database.
+My name is Pongboripat Jangnok. My student ID is 66130500063.
+I love programming. But I don\'92t know why I might get F. But, I will make it better.  It doesn't matter what grade I get as long as I know how to programming.
